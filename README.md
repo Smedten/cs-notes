@@ -1,1 +1,3 @@
-"# cs-notes" 
+# Computer Science Notes
+
+Struktur for hele notesamlingen.
